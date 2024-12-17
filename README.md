@@ -1,4 +1,4 @@
-# Hook para WHMCS corrector de data previo al ingreso en la base de datos
+# Hook para WHMCS corrector y estandarizador de datos previo al guardado
 
 Este Hook para WHMCS 8.11.2 estandariza y formatea automáticamente los datos ingresados en los formularios de registro y checkout antes de guardarlos en la base de datos. La funcionalidad incluye:
 
